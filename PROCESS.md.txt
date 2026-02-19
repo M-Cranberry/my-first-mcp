@@ -1,0 +1,3 @@
+I built a stopwatch to keep track of time for different tasks or activities for the user. For example, it could keep track of how long someone exercised or how long a homework assignment took. Claude helped by building an application with key stop and start phrases. Being specific about what I wanted the result to be of the application helped create the desired result. One of my main issues was that I simply forgot to enter the proper server configuration prompt. I learn how to properly create, configure, and use a MCP server with Claude Code.
+
+MCP servers allow AI to create applications and execute protocols to use them from the AI interface. They also allow for direct management and execution of an application, database, or other management.

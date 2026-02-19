@@ -1,0 +1,14 @@
+{
+  "name": "my-first-mcp",
+  "version": "1.0.0",
+  "description": "A simple MCP server with a stopwatch timer tool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.26.0"
+  }
+}
