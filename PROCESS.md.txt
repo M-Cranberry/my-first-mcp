@@ -1,3 +1,24 @@
-I built a stopwatch to keep track of time for different tasks or activities for the user. For example, it could keep track of how long someone exercised or how long a homework assignment took. Claude helped by building an application with key stop and start phrases. Being specific about what I wanted the result to be of the application helped create the desired result. One of my main issues was that I simply forgot to enter the proper server configuration prompt. I learn how to properly create, configure, and use a MCP server with Claude Code.
+#Building a Stopwatch App with Claude & MCP 
 
-MCP servers allow AI to create applications and execute protocols to use them from the AI interface. They also allow for direct management and execution of an application, database, or other management.
+## Project Overview
+This project involved building a stopwatch application to track time spent on various tasks and activities. Such as, logging how long a workout lasted or how much time a homework assignment took. The app was built with Claude's assistance and used specific start and stop trigger phrases to control the timer from the AI interface.
+
+##Start and stop the timer using key phrases
+Track elapsed time per task or activity
+Designed to be controlled directly through Claude
+
+##What Worked Well
+Being specific about the desired outcome was one of the most effective parts of the process. Clearly describing what I wanted the final application to do. Including the exact phrasing for start/stop commands helped Claude generate a result that closely matched my vision. 
+
+##Challenges & Lessons Learned
+Main issue: I forgot to enter the proper server configuration prompt when setting up the MCP server. This caused the application not to connect or execute as expected.
+Fix: Once I added the correct server configuration, everything worked as intended.
+Key takeaway: MCP server setup requires careful attention to configuration details. Even a small omission can prevent the whole integration from functioning as intended.
+
+##What I Learned About MCP Servers
+MCP (Model Context Protocol) servers are what allow AI models like Claude to go beyond conversation and actually interact with external systems. Here's what I now understand about them:
+What they enable:
+
+Claude can create, launch, and manage applications directly
+The AI can execute protocols and interact with tools from within the chat interface
+They support direct management of applications, databases, and other services
